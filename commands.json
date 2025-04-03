@@ -1,0 +1,6 @@
+{
+  "dev": "Starts the Vite development server with Hot Module Replacement (HMR) enabled.",
+  "build": "Builds the React application for production deployment using Vite.",
+  "lint": "Runs ESLint to analyze TypeScript and TSX files for code quality, potential errors, and style issues.",
+  "typecheck": "Runs the TypeScript compiler (`tsc`) to perform static type checking across the project without generating JavaScript output files."
+}
